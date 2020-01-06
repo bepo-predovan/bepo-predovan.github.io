@@ -6,11 +6,11 @@ body {
 }
 
 .home-page {
-  background-image: url('../img/pozadina.jpg');
+  background-image: url('pozadina.jpg');
 }
 
 .other-page {
-  background-image: url('../img/pozadina2.jpg');
+  background-image: url('pozadina2.jpg');
 }
 
 .navbar {
