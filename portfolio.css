@@ -82,6 +82,14 @@ body {
   .fotkaofficial {
     padding-bottom: 200px;
   }
+  
+  .navbar {
+    font-size: 40px;
+  }
+
+  .navbar-toggler-icon{
+    padding: 30px !important;
+  }
 }
 
 @media screen and (min-width: 991px) {
